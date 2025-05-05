@@ -51,8 +51,6 @@ Sample query used in the app:
 }
 ```
 
-You’ll need to include your API key in `NetworkManager.swift`.
-
 ## How Offline Mode Works
 
 If there's no internet connection, the app will automatically load the latest saved exchange rates and favorites from cache. So you can still use it on the go, even when offline.
